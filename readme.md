@@ -6,12 +6,12 @@
 
 ### Project Aims
 
-- Predict the Bitcoin opening prices up to 1 month in the future at a tolerable risk
+- Predict the Bitcoin opening prices up to 1 week in the future at a tolerable risk
 - Gain better insights on how bitcoin prices behaves
 
 ### Project Setup
 
 - Download dataset from https://www.kaggle.com/datasets/jesusgraterol/bitcoin-hist-klines-all-intervals-2017-2023
 - Install Python
-- Run `pip install pandas matplotlib scikit-learn`
+- Run `pip install -r requirements.txt`
 - Run `ipynb` file
