@@ -1,0 +1,5 @@
+tensorflow
+mplfinance
+pandas
+matplotlib
+scikit-learn
